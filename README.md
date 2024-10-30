@@ -19,7 +19,7 @@
 
 💬 **Ask me about**: Java, Spring Boot, Microservices Architecture
 
-🌟 **Fun fact**: Music and travelling are the reasons to live.
+🌟 **Fun fact**: Music and dancing are the reasons to live.
 
 <br>
 

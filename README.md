@@ -17,4 +17,4 @@ I’m a passionate developer focused on building efficient solutions and explori
 - [LinkedIn](https://linkedin.com/in/ishanisamaraweera)
 - [Twitter](https://twitter.com/sa_ishani)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishanisamaraweera&show_icons=true&theme=radical)

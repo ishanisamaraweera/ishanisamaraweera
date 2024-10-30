@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Ishani Samaraweera 👋
 
-<!--
-**ishanisamaraweera/ishanisamaraweera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 **Software Engineer at HDFC Bank Sri Lanka**
 
-Here are some ideas to get you started:
+I’m a passionate developer focused on building efficient solutions and exploring new technologies. I’m experienced with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: Java, JavaScript, Python
+- **Frameworks**: Spring Boot, React, Struts
+- **Databases**: MySQL, Oracle, MongoDB
+- **Others**: Git, Jenkins
+
+🌱 **Currently learning**: Advanced cloud deployments and container orchestration.
+
+💬 **Ask me about**: Spring Boot, React, Microservices Architecture
+
+📫 **Connect with me**:
+- [LinkedIn](https://linkedin.com/in/ishanisamaraweera)
+- [Twitter](https://twitter.com/sa_ishani)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)

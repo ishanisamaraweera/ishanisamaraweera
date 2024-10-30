@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Ishani Samaraweera 👋</h1>
-<h3 align="center">👩‍💻 Software Engineer at HDFC Bank Sri Lanka</h3>
+<h3 align="center">👩‍💻 Software Engineer at HDFC Bank of Sri Lanka</h3>
 
 <div align="center">
 	
@@ -53,25 +53,20 @@
 - **Databases**: MySQL, Oracle, MongoDB
 - **Others**: Git, Jenkins
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫 Connect with me:</h3>
 <div align="left">
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ishanisamaraweera/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/sa_ishani/)  [<img src = "https://img.shields.io/badge/facebook-%2320A1F1.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/ishoosa/)
 	
 </div>
+<be>
 
-📫 **Connect with me**:
-- [LinkedIn](https://linkedin.com/in/ishanisamaraweera)
-- [Twitter](https://twitter.com/sa_ishani)
+<h3>Statistical Data :-</h3>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishanisamaraweera&show_icons=true&theme=radical)
 
 <br>
- 
 
-<br>
-
-<h3>Statistical Data :-</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=ishanisamaraweera&show_icons=true&locale=en&layout=compact"
     alt="ishanisamaraweera" /></p>

@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Ishani Samaraweera 👋</h1>
-<h3 align="center">👩‍💻 Software Engineer at HDFC Bank of Sri Lanka</h3>
+<h3 align="center">👩‍💻 Senior Software Engineer at Sysco LABS Sri Lanka</h3>
 <div align="center">	
     
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ishanisamaraweera)
